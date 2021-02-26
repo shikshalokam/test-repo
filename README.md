@@ -1,4 +1,4 @@
-# Shikshalokam School Assessment APIs version: 0.0.1
+# Shikshalokam School Assessment APIs version: 1.0.0
 
 ## Environment variables:
 
